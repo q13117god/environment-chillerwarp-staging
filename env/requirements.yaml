@@ -21,7 +21,7 @@ dependencies:
   version: 0.0.2
 - name: voting-app-result-nodejs-stateful
   repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.27
+  version: 0.0.28
 - name: voting-app-worker-java-2stateful
   repository: http://jenkins-x-chartmuseum:8080
   version: 1.0.6
