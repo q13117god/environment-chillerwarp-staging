@@ -24,7 +24,7 @@ dependencies:
   version: 0.0.27
 - name: voting-app-worker-java-2stateful
   repository: http://jenkins-x-chartmuseum:8080
-  version: 1.0.5
+  version: 1.0.6
 - name: voting-vote-python
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.7
